@@ -21,4 +21,4 @@ Funder: Patient-çentered Outcomes Research Institute (PICORI)
 
 ### License
 
-hGraph is Apache 2.0 licensed.
+Health Data Basics is Apache 2.0 licensed.
