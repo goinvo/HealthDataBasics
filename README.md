@@ -3,7 +3,7 @@ An open source project, funded by PCORI, to teach citizens about what healthcare
 
 Website: https://www.healthdatabasics.org/
 
-**Core Contributors**
+###Core Contributors
 
 Sponsor: FasterCures (fastercures.org)
 
@@ -11,6 +11,6 @@ Design: GoInvo http://www.goinvo.com/
 
 Funder: Patient-çentered Outcomes Research Institute (PICORI)  
 
+###License
 
-**License**
 hGraph is Apache 2.0 licensed.
