@@ -4,7 +4,8 @@ An open source project, funded by PCORI, to teach citizens about what healthcare
 ### Health Data Plugin 
 The primary output of this product is a plugin which educates individuals about health data that can be installed with a variety of partners, such as data repositories, patient portals, or provider sites. 
 
-#### Current Status:  Prototype stage
+#### Current Status: 
+Prototype stage
 
 
 ### Want to contribute?
