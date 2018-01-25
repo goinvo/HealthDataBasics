@@ -17,7 +17,7 @@ Email feedback to:[info@goinvo.com]
 
 ### Core Contributors
 
-Sponsor: FasterCures http:/fastercures.org/
+Sponsor: FasterCures http://fastercures.org/
 
 Design: GoInvo http://www.goinvo.com/
 
