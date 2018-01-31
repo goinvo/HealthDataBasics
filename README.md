@@ -6,7 +6,7 @@ An open source project, funded by PCORI, to teach citizens about what healthcare
 [TOC levels=1-3]: # "#### Table of Contents"
 #### Table of Contents
 - [Heading **some bold** 1](#Current-Status)
-    - [Heading 1.1 _some italic_](#heading-11-some-italic)
+    - [Heading 1.1 _some italic_](#Want--to--contribute?)
         - [Heading 1.1.1](#heading-111)
         - [Heading 1.1.2  **_some bold italic_**](#heading-112--some-bold-italic)
 - [Heading 2](#heading-2)
