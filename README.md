@@ -3,8 +3,7 @@
 <img src="https://github.com/goinvo/HealthDataBasics/blob/master/Concepts/Image_for_readme/Screen%20Shot%202018-01-31%20at%202.14.36%20PM.png" width="700">
 
 # Health Data Basics
-Health Data Basics is an open source project funded by PCORI, to teach citizens about what healthcare data is, where they can get it, and how to become involved in their health. This repository documents the user centered design process from research methods to findings and designs. The product of this project is a plugin which educates individuals about health data that can be installed with a variety of partners, such as data repositories, patient portals, or provider sites. 
-
+Health Data Basics is an open source project funded by PCORI, to teach citizens about what healthcare data is, where they can get it, and how to become involved in their health. This repository documents the user centered design process from research methods to findings and designs. 
 
 ### Health Data Plugin 
 The primary output of this product is a plugin which educates individuals about health data that can be installed with a variety of partners, such as data repositories, patient portals, or provider sites. 
