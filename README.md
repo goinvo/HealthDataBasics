@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/goinvo/HealthDataBasics/blob/master/2d_Visuals/Illustrations/Main_illustrations%20-03.png" width="700">
+<img src="https://github.com/goinvo/HealthDataBasics/blob/master/2d_Visuals/Illustrations/Main_illustrations%20-03.png" width="500">
 
 # Health Data Basics
 Health Data Basics is an open source project funded by PCORI, to teach citizens about what healthcare data is, where they can get it, and how to become involved in their health. This repository documents the user centered design process from research methods to findings and designs. 
@@ -21,7 +21,7 @@ Email feedback to:[info@goinvo.com]
 
 ## Activities 
 
-![Interview findings ](https://github.com/goinvo/HealthDataBasics/blob/master/1c_Initial%20User%20Needs/Lifecycle_v1.pdf "Title") 
+![Interview findings ](https://github.com/goinvo/HealthDataBasics/blob/master/Image_for_readme/Screen%20Shot%202018-01-31%20at%202.48.34%20PM.png "Title") 
 
 ## Phase 1: Background Research Survey Development, Interviews
 * Survey received 700+ responses across US
